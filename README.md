@@ -6,7 +6,7 @@
 
 ## Clone the git repository
 ```bash
-https://github.com/Shashikant-15/linux_Assignment.git
+git clone https://github.com/Shashikant-15/linux_Assignment.git
 ```
 
 ## Executing Shell Scripts
